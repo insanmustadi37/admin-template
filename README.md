@@ -6,26 +6,23 @@
 
 ## Feature Available
 - Responsive Design
-- Info Box
-- Chart with Chart.js
-- Alert
-- Modal
-- chart-js
+- Alerts
+- Blank
+- Button
+- Charts-js
 - chart-morris
--chart-sparkline
-- contact
+- chart-sparkline
+- contacts
 - dropdown
 - Button
-- Form
-- Table
+- Themify-icon
 - Login Page
 - Register Page
 - eror Page
 - Blank Page 
 - Faqs
 - Color picker 
-- List 
-- Nav
+- List
 - Fontawesome
 - Themify-icon
 - Weather-icon
