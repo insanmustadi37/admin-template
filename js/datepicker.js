@@ -1,10 +1,10 @@
 /*
-
 Template:  Admin Template
 Author: insan Muchtadi Syafiq
 Design and Developed by: Insanmustadi37@gmail.com
+Version : 1.0
+Licensed under MIT (https://github.com/insanmustadi37/admin-template/blob/master/LICENSE)
 
-NOTE: 
 
 */
 
